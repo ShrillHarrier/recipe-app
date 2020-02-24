@@ -1,3 +1,10 @@
+Simple recipe app created from online React tutorial
+
+### Issues:
+- Can only search from the following: https://forkify-api.herokuapp.com/phrases.html
+
+##
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
