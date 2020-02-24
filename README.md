@@ -1,7 +1,7 @@
 Simple recipe app created from online React tutorial
 
 ### Issues:
-- Can only search from the following: https://forkify-api.herokuapp.com/phrases.html
+- Can only use search terms from the following: https://forkify-api.herokuapp.com/phrases.html
 
 ##
 
